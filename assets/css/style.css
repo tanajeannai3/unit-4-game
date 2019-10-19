@@ -1,0 +1,26 @@
+header{
+    font-size: 60px;
+    color: black;
+}
+body{
+    font-family: 'Ek Mukta', sans-serif;
+    font-size: 18px;
+}
+#instructions{
+
+}
+#current-number{
+    font-weight: bold;
+}
+.gem1:hover{
+    padding:1px;
+}
+.gem2:hover{
+    padding:1px;
+}
+.gem3:hover{
+    padding:1px;
+}
+.gem4:hover{
+    padding:1px;
+}
